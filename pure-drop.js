@@ -138,7 +138,6 @@ if(window.location.search == "?get=Asphalt-8-mod-apk&m=1")
 {
 window.location.assign("https://get.abzinid.com/Asphalt-8-mod-apk");
 }
-/*
 if(window.location.search == "?get=mtn-ehi-config-1&m=1")
 {
 window.location.assign("https://www.up-4.net/4tdp26aawh5b");
@@ -169,7 +168,7 @@ window.location.assign("https://www.up-4.net/3d5jud1wtdfp");
 }
 if(window.location.search == "?get=snaptube-VIP&m=1")
 {
-window.location.assign("https://www.up-4.net/2mxdmvsxssa5");
+window.location.assign("https://get.abzinid.com/snaptube-VIP");
 }
 if(window.location.search == "?get=PUBG-lite-obb&m=1")
 {
@@ -205,26 +204,24 @@ window.location.assign("https://www.up-4.net/c7x642jzgdew");
 }
 if(window.location.search == "?get=GBwhatsapp-v6-89&m=1")
 {
-window.location.assign("https://www.up-4.net/zp6887407co1");
+window.location.assign("https://get.abzinid.com/GBwhatsapp-v6-89");
 }
 if(window.location.search == "?get=GBwhatsapp-v7-0-0&m=1")
 {
-window.location.assign("https://www.up-4.net/vs03te98lv6t");
+window.location.assign("https://get.abzinid.com/GBwhatsapp-v7-0-0");
 }
 if(window.location.search == "?get=odin&m=1")
 {
-window.location.assign("https://www.up-4.net/bqppgvzohkb1");
+window.location.assign("https://get.abzinid.com/odin");
 }
 if(window.location.search == "?get=grand-TWRP&m=1")
 {
-window.location.assign("https://www.up-4.net/cadzakhjbfyh");
+window.location.assign("https://get.abzinid.com/grand-TWRP");
 }
 if(window.location.search == "?get=SuperSU-zip&m=1")
 {
-window.location.assign("https://www.up-4.net/s5uk334zahoc");
+window.location.assign("https://get.abzinid.com/SuperSU-zip");
 }
-*/
-
 if(window.location.search == "?get=PUBG-lite-apk&m=1")
 {
 window.location.assign("https://get.abzinid.com/PUBG-lite-apk");
