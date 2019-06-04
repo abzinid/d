@@ -176,7 +176,7 @@ window.location.assign("https://www.up-4.net/ww13ygefs4d6");
 }
 if(window.location.search == "?get=mercs-of-boom-apk&m=1")
 {
-window.location.assign("https://www.up-4.net/9h5t1qn8wl9i");
+window.location.assign("https://get.abzinid.com/Mercs-of-Boom-apk");
 }
 if(window.location.search == "?get=Set-DNS-apk&m=1")
 {
@@ -188,19 +188,15 @@ window.location.assign("https://www.up-4.net/fbtrtw8psvor");
 }
 if(window.location.search == "?get=mobogram-2&m=1")
 {
-window.location.assign("https://www.up-4.net/l5o08ciayath");
+window.location.assign("https://get.abzinid.com/mobogram-2");
 }
 if(window.location.search == "?get=mobogram-1&m=1")
 {
-window.location.assign("https://www.up-4.net/p0xa2c0a3lcc");
-}
-if(window.location.search == "?get=mobogram-1")
-{
-window.location.assign("https://www.up-4.net/p0xa2c0a3lcc");
+window.location.assign("https://get.abzinid.com/mobogram-1);
 }
 if(window.location.search == "?get=mobogram-3&m=1")
 {
-window.location.assign("https://www.up-4.net/c7x642jzgdew");
+window.location.assign("https://get.abzinid.com/mobogram-3");
 }
 if(window.location.search == "?get=GBwhatsapp-v6-89&m=1")
 {
